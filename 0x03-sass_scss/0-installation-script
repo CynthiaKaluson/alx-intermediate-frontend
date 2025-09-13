@@ -1,0 +1,4 @@
+1. Tried installing sass version 3.7.4 with: npm install sass@3.7.4
+2. npm showed an error: "No matching version found for sass@3.7.4"
+3. Installed sass version 1.32.0 instead: npm install sass@1.32.0
+4. Verified installation with: npx sass --version
